@@ -45,8 +45,8 @@
 ### 🌸 github stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eyinnaaa-miwaaa&show_icons=true&theme=birds-of-paradise&hide_border=true&bg_color=fff5f9&title_color=d67ab1&icon_color=e8a0c4&text_color=8b5a8f" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyinnaaa-miwaaa&layout=compact&theme=birds-of-paradise&hide_border=true&bg_color=fff5f9&title_color=d67ab1&text_color=8b5a8f" width="40%"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=eyinnaaa-miwaaa&show_icons=true&theme=birds-of-paradise&hide_border=true&bg_color=fff5f9&title_color=d67ab1&icon_color=e8a0c4&text_color=8b5a8f" width="48%"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=eyinnaaa-miwaaa&layout=compact&theme=birds-of-paradise&hide_border=true&bg_color=fff5f9&title_color=d67ab1&text_color=8b5a8f" width="40%"/>
 </p>
 
 <p align="center">
